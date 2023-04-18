@@ -26,9 +26,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
-Alright, welcome to the tutorial! To start, we'll need to create a virtual machine using Microsoft Azure. Feel free to name the VM anything you want, as long as it makes sense to you. The VM should be running Windows 10 and have at least 2-4 vcpus so that the VM will run smoothly.
+The first step after creating a resource group is to create a virtual machine using Microsoft Azure. When creating a VM, you can create the username and password to be anything you want, as long as you remember the credentials you used. In order for the VM to run quickly and smoothly it should be running Windows 10 and should have 2-4 vcpus. 
 <p>
-<img src="https://imgur.com/O2lgWbL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/wUKp7gV.png"/>
 </p>
 <p>
 </p>
